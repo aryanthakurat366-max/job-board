@@ -2,7 +2,7 @@
 
 A responsive job board built with React. It lists remote jobs from the public [Remotive API](https://remotive.com/remote-jobs/api) with search, filters, pagination, and a job details page.
 
-**Live demo:** _add your Vercel/Netlify URL here_
+**Live demo:** https://job-board-cyan-delta.vercel.app/
 
 ## Features
 
